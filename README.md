@@ -19,7 +19,7 @@ This is an AI chatbot built using Node.js and Express. It serves as a conversati
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/harshvardhan119/AIchatbot.git
+   
    cd ai-chatbot
    ```
 
